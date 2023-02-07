@@ -84,7 +84,7 @@
       &kp ESC         &kp Q         &kp W         &kp E         &kp R         &kp T               &kp Y         &kp U         &kp I         &kp O         &kp P        &kp BSPC
 // |_____________|_____________|_____________|_____________|_____________|_____________||   ||_____________|_____________|_____________|_____________|_____________|_____________|
 // |             |             |             |             |             |             ||   ||             |             |             |             |             |             |
-      &kp C_PP     &lhm LGUI A   &lhm LALT S  &lhm LCTRL D  &lhm LSHFT F      &kp G               &kp H     &rhm RSHFT J  &rhm RCTRL K  &rhm RALT L   &rhm RGUI SEMI   &kp SQT
+      &kp LCTRL    &mt LGUI A    &mt LALT S    &mt LCTRL D   &mt LSHFT F      &kp G               &kp H      &mt RSHFT J   &mt RCTRL K   &mt RALT L   &mt RGUI SEMI    &kp SQT
 // |_____________|_____________|_____________|_____________|_____________|_____________||   ||_____________|_____________|_____________|_____________|_____________|_____________|
 // |             |             |             |             |             |             ||   ||             |             |             |             |             |             |
       &kp LSHFT       &kp Z         &kp X         &kp C         &kp V         &kp B               &kp N         &kp M       &kp COMMA      &kp DOT      &kp FSLH       &kp ESC
