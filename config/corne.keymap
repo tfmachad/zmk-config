@@ -35,7 +35,7 @@
         combo_tab {
             timeout-ms = <50>;
             key-positions = <14 16>;
-            bindings = <&kp ESC>;
+            bindings = <&kp TAB>;
         };
 
         combo_asterisk {
@@ -46,13 +46,13 @@
 
         combo_lpar {
             timeout-ms = <50>;
-            key-positions = <8 9>;
+            key-positions = <15 16>;
             bindings = <&kp LPAR>;
         };
 
         combo_rpar {
             timeout-ms = <50>;
-            key-positions = <9 10>;
+            key-positions = <19 20>;
             bindings = <&kp RPAR>;
         };
 
@@ -64,13 +64,13 @@
 
         combo_minus {
             timeout-ms = <50>;
-            key-positions = <19 20>;
+            key-positions = <31 32>;
             bindings = <&kp MINUS>;
         };
 
         combo_tilde {
             timeout-ms = <50>;
-            key-positions = <31 32>;
+            key-positions = <32 33>;
             bindings = <&kp TILDE>;
         };
 
