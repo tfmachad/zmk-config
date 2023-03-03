@@ -92,6 +92,11 @@
 		};
 	};
 
+
+#define BASE 0
+#define NUM 1
+#define SYM 2
+
         keymap {
                 compatible = "zmk,keymap";
 
@@ -108,7 +113,7 @@
       &kp LSHFT       &kp Z         &kp X         &kp C         &kp V         &kp B               &kp N         &kp M       &kp COMMA      &kp DOT      &kp FSLH      &kp RSHFT
 // |_____________|_____________|_____________|_____________|_____________|_____________||   ||_____________|_____________|_____________|_____________|_____________|_____________|
 //                                           |             |             |             ||   ||             |             |             |
-                                                 &kp DEL        &mo 1        &kp RET            &kp SPACE       &mo 2        &kp ESC
+                                                 &kp DEL       &mo NUM       &kp RET            &kp SPACE      &mo SYM       &kp ESC
 //                                           |_____________|_____________|_____________||   ||_____________|_____________|_____________|                  
                   >;
                };
